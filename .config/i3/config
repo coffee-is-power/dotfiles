@@ -1,3 +1,5 @@
+# Run nitrogen for the background
+exec --no-startup-id nitrogen --restore
 # Gaps
 gaps inner 10
 # Set mod to Alt key
