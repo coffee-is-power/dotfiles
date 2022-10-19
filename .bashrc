@@ -7,6 +7,6 @@
 
 alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
-
 . "$HOME/.cargo/env"
 alias lg="lazygit"
+export PATH=~/.npm-global/bin:/home/tiago/.local/bin:$PATH
