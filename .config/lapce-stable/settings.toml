@@ -1,0 +1,21 @@
+
+[core]
+color-theme = "Blackest"
+
+[ui]
+font-family = "Jetbrains Mono"
+
+[editor]
+font-family = "Jetbrains Mono"
+
+[terminal]
+font-family = "Jetbrains Mono"
+
+[theme]
+
+[theme.syntax]
+function = "$orange"
+"function.method" = "$orange"
+
+[lapce-rust]
+"checkOnSave.command" = "clippy"
